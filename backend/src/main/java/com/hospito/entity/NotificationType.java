@@ -1,0 +1,13 @@
+package com.hospito.entity;
+
+public enum NotificationType {
+    APPOINTMENT_BOOKED,
+    APPOINTMENT_APPROVED,
+    APPOINTMENT_REJECTED,
+    DOCTOR_MESSAGE,
+    CONSULTATION_REMINDER,
+    MEDICATION_REMINDER,
+    LAB_ORDER,
+    BILLING,
+    SYSTEM
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="hospitoAppGradient" x1="64" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="128" fill="url(#hospitoAppGradient)"/>
+  <path d="M256 112c64 0 112 48 112 112v64c0 64-48 112-112 112s-112-48-112-112v-64c0-64 48-112 112-112Z" fill="white" fill-opacity="0.18"/>
+  <path d="M240 176h32v64h64v32h-64v64h-32v-64h-64v-32h64v-64Z" fill="white"/>
+</svg>
